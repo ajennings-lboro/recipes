@@ -4,4 +4,6 @@
 * Avocado
 * Salt
 * Lime (definitely not lemon!!)
+* Coriander
+* Chilli
 ## Method
