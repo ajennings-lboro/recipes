@@ -8,6 +8,7 @@
 * Coriander
 * Chilli
 * Pepper
+*Meth
 * Cocaine
 ## Method
 1) Mash avocado
