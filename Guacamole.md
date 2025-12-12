@@ -3,5 +3,5 @@
 ## Ingredients
 * Avocado
 * Salt
-* Lime
+* Lime (definitely not lemon!!)
 ## Method
