@@ -1,6 +1,7 @@
 
 # Guacamole
 ## Ingredients
+* Dynamite
 * Avocado
 * Salt
 * Lime (definitely not lemon!!)
