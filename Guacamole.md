@@ -8,4 +8,6 @@
 * Chilli
 * Pepper
 ## Method
-Mash avocado
+1) Mash avocado
+2) Squeeze some additional lime over the top of the guacamole to prevent turning brown.
+3) Serve with a side of torilla chips, and a cold beer.
